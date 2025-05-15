@@ -1,0 +1,1 @@
+// API route for fetching listings from Resly
